@@ -1,4 +1,4 @@
 {
-	commitMessagePrefix: "something:",
-	semanticCommitScope: "feat(something):"
+	"commitMessagePrefix": "something:",
+	"semanticCommitScope": "feat(something):"
 }
