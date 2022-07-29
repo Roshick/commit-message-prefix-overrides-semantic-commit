@@ -1,3 +1,4 @@
 {
+	"commitMessagePrefix": "something:",
 	"semanticCommitScope": "something"
 }
